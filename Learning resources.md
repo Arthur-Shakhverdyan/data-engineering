@@ -9,10 +9,11 @@
 ## Английский язык
 
 ## Excel
-
+1. [Stepik, Excel для новичков](https://stepik.org/course/68712) (Русский)
 
 ## SQL
 1. [Интерактивный онлайн-курс по SQL СУБД PostgreSQL](https://learndb.ru/) (Русский)
+2. [Stepik, Интерактивный тренажер по SQL](https://stepik.org/course/63054) (Русский)
 
 ## Python
 
@@ -25,6 +26,7 @@
 
 ## BI и визуализация данных
 1. [Создание и использование аналитических отчетов в Power BI](https://docs.microsoft.com/ru-ru/learn/paths/create-use-analytics-reports-power-bi/) (Русский) // Обучение от Microsoft
+2. [Stepik, Основы работы в Tableau](https://stepik.org/course/56280) (Русский)
 
 ## ETL/ELT и интеграция данных 
 
